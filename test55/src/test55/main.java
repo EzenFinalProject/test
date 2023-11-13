@@ -6,6 +6,7 @@ public class main {
 		
 		System.err.println("hello world");
 		System.err.println("hello world2");
+		System.err.println("hello world3");
 	}
 
 }
